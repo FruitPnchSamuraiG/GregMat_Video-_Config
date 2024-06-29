@@ -1,7 +1,7 @@
 # GregMat_Video-_Config
 Auto changes video playback to 2x and quality to 540P for PrepSwift
 
-##Setup and Usage
+## Setup and Usage
 
 1. Save the settings icon image to your local device.
 2. Replace the image path in the `test2.ahk` file with your local path.
