@@ -1,4 +1,4 @@
-# GregMat_Video-_Config
+# GregMat_Video_Config
 Auto changes video playback to 2x and quality to 540P for PrepSwift
 
 ## Installation
