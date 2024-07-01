@@ -58,9 +58,8 @@ ClickImage(ByRef x := "", ByRef y := "", imagePath := "C:\Users\hrida\Pictures\S
 
         return true
     }
-    else
-    {
-        MsgBox, Image not found: %imagePath%
+    else {
+        MsgBox, % "Image not found: " imagePath " `n Errorlevel: " errorLevel
         return false
     }
 }
