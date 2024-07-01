@@ -1,6 +1,10 @@
 # GregMat_Video-_Config
 Auto changes video playback to 2x and quality to 540P for PrepSwift
 
+## Installation
+
+1. Download AHK v1.1 https://www.autohotkey.com/
+
 ## Setup and Usage
 
 1. Save the settings icon image to your local device.
@@ -12,6 +16,16 @@ Auto changes video playback to 2x and quality to 540P for PrepSwift
 
 - The default keybind is set to Ctrl + J.
 - If anything goes wrong, press Ctrl + Escape to break out of the script.
+
+
+## Errors
+
+If you encounter "Image not Found" ErrorLevel: 1:
+- Take a screenshot of the settings icon using the Snip Tool on your local PC, use the uploaded image as a reference.
+- This error is likely due to screen resolution differences.
+- Use the image taken on your local device.
+- Update the image path in the script with the path to your new screenshot.
+
 
 ## Auto-start on Device Restart
 
